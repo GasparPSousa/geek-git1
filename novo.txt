@@ -1,0 +1,1 @@
+Escrevendo no arquivo novo apenas para modificar e utilizar os comandos do git.
