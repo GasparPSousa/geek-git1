@@ -1,0 +1,1 @@
+Criando outro_arquivo.txt para utilizar vários comandos do git.
